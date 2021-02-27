@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\SerializeObjects\SerializeObjects\bin\Debug\SerializeObjects.exe.config
+C:\Users\user\source\repos\SerializeObjects\SerializeObjects\bin\Debug\SerializeObjects.exe
+C:\Users\user\source\repos\SerializeObjects\SerializeObjects\bin\Debug\SerializeObjects.pdb
+C:\Users\user\source\repos\SerializeObjects\SerializeObjects\bin\Debug\SerializeObjects.xml
+C:\Users\user\source\repos\SerializeObjects\SerializeObjects\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\source\repos\SerializeObjects\SerializeObjects\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\source\repos\SerializeObjects\SerializeObjects\obj\Debug\SerializeObjects.vbprojAssemblyReference.cache
+C:\Users\user\source\repos\SerializeObjects\SerializeObjects\obj\Debug\SerializeObjects.Form1.resources
+C:\Users\user\source\repos\SerializeObjects\SerializeObjects\obj\Debug\SerializeObjects.Resources.resources
+C:\Users\user\source\repos\SerializeObjects\SerializeObjects\obj\Debug\SerializeObjects.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\SerializeObjects\SerializeObjects\obj\Debug\SerializeObjects.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SerializeObjects\SerializeObjects\obj\Debug\SerializeObjects.vbproj.CopyComplete
+C:\Users\user\source\repos\SerializeObjects\SerializeObjects\obj\Debug\SerializeObjects.exe
+C:\Users\user\source\repos\SerializeObjects\SerializeObjects\obj\Debug\SerializeObjects.xml
+C:\Users\user\source\repos\SerializeObjects\SerializeObjects\obj\Debug\SerializeObjects.pdb
